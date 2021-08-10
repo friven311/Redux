@@ -43,10 +43,3 @@ const update = () =>{
 };
 
 store.subscribe(update);
-
-// store.dispatch({type: 'INC'});
-// let state = reducer(undefined, {});
-// state = reducer(state, {type: 'INC'});
-// console.log(state);
-// state = reducer(state, {type: 'INC'});
-// console.log(state);
